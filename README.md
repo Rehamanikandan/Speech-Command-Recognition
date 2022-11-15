@@ -1,2 +1,2 @@
 # Speech-Command-Recognition
-Developed a deep convolutional LSTM network for speech command recognition. 
+The purpose of the project is to develop deep convolutional LSTM network for speech command recognition. The project is motivated by using spectrograms as inputs to the hybrid deep convolutional LSTM for speech emotion recognition. The trained proposed model using four convolutional layers for high-level feature extraction from input spectrograms, LSTM layer for accumulating long-term dependencies and finally dense layer.
